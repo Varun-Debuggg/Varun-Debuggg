@@ -60,8 +60,9 @@
 ###
 
 <a href="https://github.com/Varun-Debuggg" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Varun-Debuggg/Varun-Debuggg/output/snake.svg" alt="Snake animation" />
 </a>
 
 <br clear="both">
+
 
