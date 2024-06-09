@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Varun Kapoor and I'm a Software Developer from Mohali(Punjab), India.</h2>
+<h2 align="left">Hi 👋! I am Varun Kapoor and I'm a Software Developer from Mohali(Punjab), India.</h2>
 
 <a href="https://github.com/Varun-Debuggg">
   <div align="center">
